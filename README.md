@@ -1,4 +1,4 @@
-### ✋🏻👨🏻 Hi, I'm DaiNaka
+### Hi, I'm DaiNaka ✋🏻👨🏻
 
 <p align="left">
   <!-- GitHub -->
