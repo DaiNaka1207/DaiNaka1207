@@ -7,7 +7,7 @@
   I hope someday I can solve the problems of someone somewhere in this world with the web service I made.
 
   <a href="https://github.com/DaiNaka1207" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/wxfpk432" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/wxfpk432" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 
 ### Language & Framework
   [![](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/DaiNaka1207)
