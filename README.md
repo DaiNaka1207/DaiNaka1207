@@ -1,17 +1,17 @@
 ### Hi, I'm DaiNaka 🙂
 
-  独学ですが趣味でプログラミングを勉強しています。<br>
-  いつか自分の作ったWebサービスで、この世界のどこかの誰かの悩みを解決できたらいいなと思っています。
+ 「作りながら学ぶ」をモットーにしてPHP（Laravel）やGASで開発を続けているエンジニアです。  
+ 業務自動化・ホームページ作成・システム開発のご相談もお気軽にどうぞ。
 
-  I'm self-taught, but I study programming as a hobby.<br>
-  I hope someday I can solve the problems of someone somewhere in this world with the web service I made.
+ I am an engineer who continues to develop using PHP (Laravel) and GAS, with the motto of learning by building.  
+ Please feel free to contact me for business automation, website creation, or system development consultations.
 
   <a href="https://github.com/DaiNaka1207" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/wxfpk432" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://twitter.com/wxfpk432" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 
 ### Language & Framework
   [![](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/DaiNaka1207)
-  [![](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/DaiNaka1207)
+  [![](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/DaiNaka1207)
   [![](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/DaiNaka1207)
   [![](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/DaiNaka1207)
   <br>
