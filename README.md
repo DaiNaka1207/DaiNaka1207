@@ -6,8 +6,9 @@
  I am an engineer who continues to develop using PHP (Laravel) and GAS, with the motto of learning by building.  
  Please feel free to contact me for business automation, website creation, or system development consultations.
 
-  <a href="https://github.com/DaiNaka1207" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://github.com/DaiNaka1207" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
   <a href="https://twitter.com/wxfpk432" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://zenn.dev/dainaka" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-%23000000.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 
 ### Language & Framework
   [![](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/DaiNaka1207)
